@@ -1,0 +1,113 @@
+.image{
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    overflow: hidden;
+    background-image:url('./driver.jpg');
+    box-shadow: 0 0 5px 2px #282a2d;
+}
+
+  .list {
+    list-style: none; 
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-bottom: 5vw;
+  }
+  
+  .list_item {
+    border-bottom:1px dashed rgb(107, 98, 98);
+    
+    line-height: 10px;
+    color: rgb(59, 59, 59);
+    /* font-size: 20px; */
+    font-family: ff-enzo-web, helvetica, sans-serif;
+    font-weight: 300;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+    
+  }
+
+
+
+    
+  .make {
+    float:left;
+    font-size: 2vw;
+
+  }
+  
+  .model {
+    text-align: right;
+    float: right;
+    font-size: 2vw;
+  }
+  
+  
+.top_wrapper {
+    height: 100vh;
+    padding-top: 20vh;
+}
+
+  .title {
+    font-size: 4vw;
+    text-align: center;
+    color: white;
+    /* font-size: 30px; */
+    font-family: ff-enzo-web, helvetica, sans-serif;
+    font-weight: 300;
+    text-shadow: 0px 0px 20px #262c3c;
+  }
+  
+  .number {
+    font-size: 50vh;
+    text-align: center;
+    color: white;
+    font-family: ff-enzo-web, helvetica, sans-serif;
+    font-weight: 300;
+    
+    text-shadow: 0px 0px 20px #262c3c;
+
+    margin-bottom: 10px;
+  }
+  
+    
+
+
+
+.footer {
+    box-shadow: 0 0 5px 2px #18191a;
+    background-color: black;
+    color: #797979;
+    font-family: ff-enzo-web, helvetica, sans-serif;
+    font-weight: 300;
+    padding: 15% 22%;
+  }
+  
+  
+  
+   
+  @media only screen and (max-width: 600px){
+    .title{
+        font-size: 4vh;
+    }
+
+    .make {
+    
+        float:none;
+        text-align: center;
+        font-size: small;
+    
+      }
+      
+      .model {
+        margin-top: 15px;
+        text-align: center;
+        float: none;
+        font-size: medium;
+      }
+    
+  }
+
+  
+    
