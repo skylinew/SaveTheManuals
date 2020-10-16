@@ -1,5 +1,7 @@
 import React from 'react';
 
+const FETCH_URL = 'http://localhost:4000/cars'
+
 
 class Home extends React.Component {
     
@@ -21,7 +23,7 @@ class Home extends React.Component {
             }
         }
 
-        fetch('http://localhost:4000/cars', options)
+        fetch(FETCH_URL, options)
             .then((res)=>{
            
                 if (res.status !== 200){
