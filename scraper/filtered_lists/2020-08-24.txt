@@ -1,0 +1,64 @@
+Audi ~A3 Sedan
+Audi ~Q3
+Audi ~A3
+Audi ~A5
+Audi ~A3 Cabriolet
+Audi ~S3
+Audi ~A5 Cabriolet
+Bmw ~1 Series
+Bmw ~M2 CS
+Bmw ~M4 Convertible
+Bmw ~M4
+Chevrolet ~Camaro
+Chevrolet ~Sonic
+Chevrolet ~Corvette ZR1
+Chevrolet ~Corvette Z06
+Chevrolet ~Cobalt
+Chevrolet ~Cruze Wagon
+Chevrolet ~Sonic RS
+Dodge ~Challenger SRT
+Fiat ~500 X
+Ford ~S-Max
+Ford ~EDGE
+Ford ~Fiesta ST
+Ford ~Focus RS
+Honda ~Civic Hatchback
+Honda ~Accord
+Honda ~Civic Type-R
+Hyundai ~Veloster
+Hyundai ~Elantra GT
+Hyundai ~Venue
+Jeep ~Gladiator
+Kia ~Rio
+Kia ~Forte
+Kia ~Forte 5 Door
+Kia ~Rondo
+Kia ~Seltos
+Lotus ~Evora GT
+Mazda ~2
+Mazda ~CX-3
+Mini ~Countryman
+Mini ~Convertible
+Mini ~Clubvan
+Mitsubishi ~Mirage
+Mitsubishi ~Mirage G4
+Mitsubishi ~Lancer
+Mitsubishi ~Eclipse Cross
+Nissan ~Juke
+Nissan ~X-Trail
+Nissan ~370Z Roadster
+Nissan ~NV200
+Porsche ~911 Targa 4S
+Porsche ~718 Cayman GT4
+Porsche ~911 GT3
+Porsche ~911 R
+Porsche ~911 Speedster
+Subaru ~WRX STI
+Subaru ~Crosstrek
+Toyota ~C-HR
+Toyota ~Corolla
+Toyota ~Verso-S
+Volkswagen ~Scirocco
+Volkswagen ~up! GTI
+Volkswagen ~T-Cross
+Volkswagen ~T-Roc
