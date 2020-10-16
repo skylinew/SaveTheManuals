@@ -1,7 +1,7 @@
 # Save The Manuals
 #### Manual transmission cars are a dying breed in the U.S. You might be thinking, who cares? Unfortunately, car enthusiasts do.
 
-One day I was window shopping online for cars online. I wanted my next car to be stick-shift. It became extremely tedious and time-consuming to google and navigate through the process of building quotes on manufacturer websites just to find out if a car of interest came in stick-shift. Then it hit me. If there's no single reference online for this, then I just have to make it. 
+One day I was window shopping online for cars online. I wanted my next car to be stick-shift. It became extremely tedious and time-consuming to google and navigate through the process of building quotes on manufacturer websites just to find out if a car of interest came in stick-shift. Then it hit me. If there's no single reference online for this, then I'm going to make one.
 
 ## How It Works
 
