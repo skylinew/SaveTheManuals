@@ -1,7 +1,7 @@
 # Save The Manuals
-#### Manual transmission cars are a dying breed in the U.S. You might be thinking, who cares? Unfortunately, car enthusiasts do.
+#### Car enthusiasts enjoy manual transmission cars. Finding them is difficult. Fortunately, this website makes it easy.
 
-Car enthusiasts enjoy manual transmission cars. Finding them is difficult. Fortunately, this website makes it easy.
+
 
 ## How It Works
 
