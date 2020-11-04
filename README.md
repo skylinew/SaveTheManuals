@@ -1,5 +1,5 @@
 # Save The Manuals
-#### Car enthusiasts enjoy manual transmission cars. Finding them is difficult. Fortunately, this website makes it easy.
+#### Car enthusiasts enjoy manual transmission cars. Finding them is difficult. This website makes it easy.
 
 
 
